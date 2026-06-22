@@ -64,7 +64,7 @@ invoke==1.2.0
 ansible==2.7.0
 salt==2019.2.0
 docker==3.7.0
-kubernetes==9.0.0
+kubernetes==36.0.2
 google-cloud-storage==1.14.0
 azure-storage-blob==2.1.0
 mako==1.0.7
